@@ -6,6 +6,7 @@ The purpose of this repository is to provide access to all docmentation and form
 **Safequarding and guidance**
 
 
-[**TGC Safeguarding Policy**](https://publons.com/researcher/2894258/jim-h-chandler/?utm_campaign=researcher_id_badge) _(based on BGA document)_
+[**TGC Safeguarding Policy**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/CGC%20CP%20Policy.pdf) _(based on BGA document)_
+[**TGC Advice for parents**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/CGC%20CP%20Policy.pdf) _(based on BGA document)_
 
 **Junior membership**
