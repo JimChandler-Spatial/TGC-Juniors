@@ -15,7 +15,7 @@ The purpose of this repository is to provide access to the documentation and for
 
 **Scholarships**
 The TGC operates a scholarship scheme to support some of the flying costs for Junior Members. These scholarships are run on an annual basis, require a day per month to support club activities and are not automatically awarded.
-1. [**Scholarship details**]- further details re. Scholarships
+1. [**Scholarship details**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/The%20TGC%20Scholarship%20Scheme.pdf)- further details re. Scholarships
 2. [**Scholarship Application Form**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Scholarship%20Scheme%20Application%20Form%202020%20V2.pdf)
 
 **Safeguarding concerns**
