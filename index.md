@@ -12,3 +12,10 @@ The purpose of this repository is to provide access to the documentation and for
 **Junior Membership**
 1. [**Application form for Junior Membership**]
 2. [**Junior Member Training Record**]( )- To be held by Junior Member until completely signed off by Instructor(s). Then copy held by Club.
+
+**Scholarships**
+The TGC operates a scholarship scheme to support some of the flying costs for Junior Members. These scholarships are run on an annual basis, require a day per month to support club activities and are not automatically awarded.
+1. [**Scholarship details**]- further details re. Scholarships
+2. [**Scholarship Application Form**]
+
+**Safeguarding concerns**
