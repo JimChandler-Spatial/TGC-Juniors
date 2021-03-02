@@ -10,7 +10,7 @@ The purpose of this repository is to provide access to the documentation and for
 3. [**TGC Airfield access/use of equipment**]()- some important safety issues relating to the Airfield and use of buggies/tractors/winch etc.
 
 **Junior Membership**
-1. [**Application form for Junior Membership**]
+1. [**Application form for Junior Membership**]( )
 2. [**Junior Member Training Record**]( )- To be held by Junior Member until completely signed off by Instructor(s). Then copy held by Club.
 
 **Scholarships**
