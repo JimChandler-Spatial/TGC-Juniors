@@ -18,4 +18,5 @@ The TGC operates a scholarship scheme to support some of the flying costs for Ju
 1. [**Scholarship details**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/The%20TGC%20Scholarship%20Scheme.pdf)- further details re. Scholarships
 2. [**Scholarship Application Form**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Scholarship%20Scheme%20Application%20Form%202020%20V2.pdf)
 
-**Safeguarding concerns**
+**Other points**
+1. [**Good practice guidelines when working with young people**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Good%20Practice%20when%20working%20with%20young%20people.pdf)- Some useful commonsense guidelines courtesy of the BGA
