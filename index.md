@@ -1,5 +1,4 @@
 ## The Gliding Centre (TGC)- Junior Members, Care and Safeguarding ##
-(Email: JimChandler.Spatial@virginmedia.com)
 
 The purpose of this repository is to provide access to the documentation and forms relating to the guidance and care of our Junior Members. Junior Members clearly represent the future of our Club and we have a _duty of care_ to those under the age of 18, which is shared by all.
 
@@ -23,4 +22,4 @@ The TGC operates a scholarship scheme to support some of the flying costs for Ju
 
 _and finally, there is a duty on our Club to report to Children’s Services, concerns about children where they may at risk of significant harm. In all cases, it will be appropriate to gather and record facts about the concern, but not to prejudice formal investigations which must be conducted in accordance with statutory procedures. Contact either the Junior Liason Office (Jim Chandler) or the Club Child Protection Officer (Dan Thorogood) if you have any concerns._
 
-Updated: 2nd March, 2021
+Updated: 2nd March, 2021 (Email: JimChandler.Spatial@virginmedia.com)
