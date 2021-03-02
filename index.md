@@ -20,3 +20,7 @@ The TGC operates a scholarship scheme to support some of the flying costs for Ju
 
 **Other points**
 1. [**Good practice guidelines when working with young people**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Good%20Practice%20when%20working%20with%20young%20people.pdf)- Some useful commonsense guidelines courtesy of the BGA
+
+and finally, there is a duty on our Club to report to Children’s Services, concerns about children where they may at risk of significant harm. In all cases, it will be appropriate to gather and record facts about the concern, but not to prejudice formal investigations which must be conducted in accordance with statutory procedures. Contact either the Junior Liason Office (Jim Chandler) or the Club Child Protection Officer (Dan Thorogood) if you have any concerns.
+
+Updated: 2nd March, 2021
