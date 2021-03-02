@@ -13,12 +13,12 @@ The purpose of this repository is to provide access to the documentation and for
 2. [**Junior Member Training Record**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Club%20Held%20Junior%20Member%20Additional%20Training%20Record%20(V1).pdf )- To be held by Junior Member until completely signed off by Instructor(s). Then a copy to deposited in the Club.
 
 **Scholarships**
-The TGC operates a scholarship scheme to support some of the flying costs for Junior Members. These scholarships are run on an annual basis, require a day per month to support club activities and are not automatically awarded.
+The TGC operates a scholarship scheme open to Junior Members, aiming to support some of the flying costs. These scholarships are run on an annual basis, require a day per month to support club activities but are not automatically awarded. Further details and the application form:
 1. [**Scholarship details**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/The%20TGC%20Scholarship%20Scheme.pdf)- further details re. Scholarships
 2. [**Scholarship Application Form**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Scholarship%20Scheme%20Application%20Form%202020%20V2.pdf)
 
 **Other points**
-1. [**Good practice guidelines when working with young people**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Good%20Practice%20when%20working%20with%20young%20people.pdf)- Some useful commonsense guidelines courtesy of the BGA
+1. [**Good practice guidelines when working with young people**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Good%20Practice%20when%20working%20with%20young%20people.pdf)- Some useful commonsense guidelines compiled by the BGA
 
 _and finally, there is a duty on our Club to report to Children’s Services, concerns about children where they may at risk of significant harm. In all cases, it will be appropriate to gather and record facts about the concern, but not to prejudice formal investigations which must be conducted in accordance with statutory procedures. Contact either the Junior Liason Office (Jim Chandler) or the Club Child Protection Officer (Dan Thorogood) if you have any concerns._
 
