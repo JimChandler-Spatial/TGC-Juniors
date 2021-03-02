@@ -11,7 +11,7 @@ The purpose of this repository is to provide access to the documentation and for
 
 **Junior Membership**
 1. [**Application form for Junior Membership**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Junior%20Membership%20Application%20Form%20V1.pdf)
-2. [**Junior Member Training Record**]( )- To be held by Junior Member until completely signed off by Instructor(s). Then a copy to deposited in the Club.
+2. [**Junior Member Training Record**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Club%20Held%20Junior%20Member%20Additional%20Training%20Record%20(V1).pdf )- To be held by Junior Member until completely signed off by Instructor(s). Then a copy to deposited in the Club.
 
 **Scholarships**
 The TGC operates a scholarship scheme to support some of the flying costs for Junior Members. These scholarships are run on an annual basis, require a day per month to support club activities and are not automatically awarded.
