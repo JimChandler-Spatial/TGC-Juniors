@@ -10,7 +10,7 @@ The purpose of this repository is to provide access to the documentation and for
 3. [**TGC Airfield access/use of equipment**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Juniors-%20Authorisation%20-%20Airfield%20Access%20-%20Use%20of%20Equipment.pdf)- some important safety issues relating to the Airfield and use of buggies/tractors/winch etc.
 
 **Junior Membership**
-1. [**Application form for Junior Membership**]()
+1. [**Application form for Junior Membership**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Junior%20Membership%20Application%20Form%20V1.pdf)
 2. [**Junior Member Training Record**]( )- To be held by Junior Member until completely signed off by Instructor(s). Then copy held by Club.
 
 **Scholarships**
