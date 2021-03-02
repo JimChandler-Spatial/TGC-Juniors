@@ -1,4 +1,4 @@
-## The Gliding Centre (TGC)- Junior Members, care and Safeguarding ##
+## The Gliding Centre (TGC)- Junior Members, Care and Safeguarding ##
 (Email: JimChandler.Spatial@virginmedia.com)
 
 The purpose of this repository is to provide access to the documentation and forms relating to the guidance and care of our Junior Members. Junior Members clearly represent the future of our Club and we have a "duty of care" to those under the age of 18, which is shared by all.
