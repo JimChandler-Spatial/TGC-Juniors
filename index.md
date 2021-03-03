@@ -15,7 +15,7 @@ The purpose of this repository is to provide access to the documentation and for
 **Scholarships**
 The TGC operates a scholarship scheme open to Junior Members, aiming to support some of the flying costs. These scholarships are run on an annual basis, require a day per month of committment to support club activities but are not automatically awarded. Further [**Scholarship details**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/The%20TGC%20Scholarship%20Scheme.pdf) and the: [**Scholarship Application Form**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Scholarship%20Scheme%20Application%20Form%202020%20V2.pdf).
 
-**Other points**
+**Other Points**
 1. [**Good practice guidelines when working with young people**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Good%20Practice%20when%20working%20with%20young%20people.pdf)- _Some useful commonsense guidelines compiled by the BGA._
 
 _and finally, there is a duty on our Club to report to Children’s Services, concerns about children where they may at risk of significant harm. In all cases, it will be appropriate to gather and record facts about the concern, but not to prejudice formal investigations which must be conducted in accordance with statutory procedures. Contact either the Junior Liason Office (Jim Chandler) or the Club Child Protection Officer (Dan Thorogood) if you have any concerns._
