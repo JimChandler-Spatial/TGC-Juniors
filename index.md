@@ -5,7 +5,7 @@ The purpose of this repository is to provide access to the documentation and for
 **Safeguarding and Guidance**
 
 1. [**TGC Safeguarding Policy**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/CGC%20CP%20Policy%20draft.pdf) _(based on BGA document)_
-2. [**TGC Advice for parents**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Advice%20for%20Parents-TGC.pdf)- to distinguish parental/club responsibilities and highlight important safety issues/authorisations relating to the airfield and use of buggies/tractors etc. _(based on document from The London Gliding Club)_
+2. [**TGC Advice for parents**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/Advice%20for%20Parents-TGC.pdf)- to distinguish parental/club responsibilities and highlight important safety issues/authorisations relating to the airfield and use of buggies/tractors etc. _(based on document from the London Gliding Club)_
 
 **Junior Membership**
 1. [**Application form for Junior Membership**](https://github.com/JimChandler-Spatial/TGC-Juniors/blob/main/docs/TGC%20Junior%20Membership%20Application%20Form%20V1.pdf)
