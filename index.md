@@ -19,4 +19,4 @@ The TGC operates a scholarship scheme open to Junior Members, aiming to support 
 
 _and finally, there is a duty on our Club to report to Children’s Services, concerns about children where they may at risk of significant harm. In all cases, it will be appropriate to gather and record facts about the concern, but not to prejudice formal investigations which must be conducted in accordance with statutory procedures. Contact either the Junior Liason Office (Jim Chandler) or the Club Child Protection Officer (Dan Thorogood) if you have any concerns._
 
-Updated: 2nd March, 2021 (Email: JimChandler.Spatial@virginmedia.com)
+Updated: 4th March, 2021 (Email: JimChandler.Spatial@virginmedia.com)
